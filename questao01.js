@@ -8,7 +8,7 @@
 // Exemplo em Objeto:
 const usuario = { nome: 'Lucas', idade: 25 };
 const { nome, idade } = usuario; // Extrai diretamente em variáveis
-console.log(nome, idade); // Saída: Lucas 25
+console.log(nome, idade); // Saída: Lucas 25 
 
 // Exemplo em Array:
 const cores = ['Vermelho', 'Azul'];
